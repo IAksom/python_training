@@ -19,8 +19,11 @@ class TestLogin(unittest.TestCase):
         driver = self.driver
         driver.get("http://localhost/addressbook/group.php")
         driver.find_element_by_name("user").click()
-        driver.find_element_by_id("LoginForm").click()
+        driver.find_element_by_name("user").clear()
+        driver.find_element_by_name("user").send_keys('admin')
         driver.find_element_by_name("pass").click()
+        driver.find_element_by_name("pass").clear()
+        driver.find_element_by_name("pass").send_keys('secret')
         driver.find_element_by_xpath(u"//input[@value='Увійти']").click()
         driver.find_element_by_name("new").click()
         driver.find_element_by_name("group_name").click()
@@ -35,9 +38,7 @@ class TestLogin(unittest.TestCase):
         driver.find_element_by_name("submit").click()
         driver.find_element_by_link_text("group page").click()
         driver.find_element_by_link_text(u"Вийти").click()
-        driver.find_element_by_name("user").clear()
-        driver.find_element_by_name("user").send_keys("admin")
-    
+
     def is_element_present(self, how, what):
         try: self.driver.find_element(by=how, value=what)
         except NoSuchElementException as e: return False
