@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f58c799-bac0-4eee-a9bb-c6f5700d04f7" name="Default Changelist" comment="">
+    <list default="true" id="4f58c799-bac0-4eee-a9bb-c6f5700d04f7" name="Default Changelist" comment="Updated TestLogin.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestLogin.py" afterDir="false" />
     </list>
@@ -106,8 +106,16 @@
       <option name="presentableId" value="Default" />
       <updated>1590489045720</updated>
       <workItem from="1590489080911" duration="6199000" />
-      <workItem from="1590660046643" duration="655000" />
+      <workItem from="1590660046643" duration="5757000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated TestLogin.py">
+      <created>1590661037526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590661037526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +133,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated TestLogin.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated TestLogin.py" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="520" y="383" key="#Notifications" timestamp="1590489221255">
       <screen x="0" y="0" width="1280" height="984" />
@@ -134,22 +146,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590492926777" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1590660774331">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1590667738715">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590660774331" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1590660774331">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1590667738715">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590660774331" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1590660774331">
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1590667738715">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590660774331" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1590660774331">
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1590667738715">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590660774331" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
     <state x="141" y="136" key="SettingsEditor" timestamp="1590492671007">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -158,9 +170,13 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="449" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590492359935" />
+    <state x="483" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1590663718106">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="483" y="264" key="refactoring.ChangeSignatureDialog/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590663718106" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_training$test_add_group.coverage" NAME="test_add_group Coverage Results" MODIFIED="1590660359390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_training$TestLogin.coverage" NAME="TestLogin Coverage Results" MODIFIED="1590660826304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_training$TestLogin.coverage" NAME="TestLogin Coverage Results" MODIFIED="1590667738703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
