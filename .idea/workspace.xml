@@ -19,17 +19,39 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f58c799-bac0-4eee-a9bb-c6f5700d04f7" name="Default Changelist" comment="Updated TestLogin.py">
+    <list default="true" id="4f58c799-bac0-4eee-a9bb-c6f5700d04f7" name="Default Changelist" comment="Added test empty group">
+      <change afterPath="$PROJECT_DIR$/.idea/vagrant.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixture/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Lesson 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_training.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixture/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TestLogin1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1cRQhaotmxczGqF7dsOBiMIfIsm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,10 +62,63 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Valeriy\Documents\GitHub\python_training\test" />
+      <recent name="C:\Users\Valeriy\Documents\GitHub\python_training\fixture" />
+      <recent name="C:\Users\Valeriy\Documents\GitHub\python_training\model" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.TestLogin">
+    <configuration name="Lesson 6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/Lesson 6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Valeriy\Documents\GitHub\python_training\test\Lesson 6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestLogin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,7 +132,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestLogin.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Valeriy\Documents\GitHub\python_training\test\TestLogin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,6 +166,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.TestLogin" />
+        <item itemvalue="Python.Lesson 6" />
+        <item itemvalue="Python.Lesson 6 (1)" />
         <item itemvalue="Python.test_add_group" />
       </list>
     </recent_temporary>
@@ -106,7 +183,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590489045720</updated>
       <workItem from="1590489080911" duration="6199000" />
-      <workItem from="1590660046643" duration="5757000" />
+      <workItem from="1590660046643" duration="24034000" />
     </task>
     <task id="LOCAL-00001" summary="Updated TestLogin.py">
       <created>1590661037526</created>
@@ -115,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590661037526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added test empty group">
+      <created>1590742268632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590742268691</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added test empty group">
+      <created>1590744154372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590744154372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,9 +226,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated TestLogin.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated TestLogin.py" />
+    <MESSAGE value="Added test empty group" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added test empty group" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="349" y="87" key="#Lesson_6_(1)" timestamp="1591034054642">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="349" y="87" key="#Lesson_6_(1)/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591034054642" />
     <state x="520" y="383" key="#Notifications" timestamp="1590489221255">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -146,26 +242,50 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="94" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590492926777" />
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1590667738715">
+    <state x="419" y="196" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1591033988786">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
-    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1590667738715">
+    <state x="419" y="196" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591033988786" />
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1590751364872">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
-    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1590667738715">
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590751364872" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1591079661182">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
-    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1590667738715">
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591079661182" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1591079661107">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590667738715" />
-    <state x="141" y="136" key="SettingsEditor" timestamp="1590492671007">
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591079661107" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1591079661107">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="141" y="136" key="SettingsEditor/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590492671007" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591079661107" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1591079661107">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591079661107" />
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom" timestamp="1591033620341">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591033620341" />
+    <state width="1237" height="325" key="GridCell.Tab.1.center" timestamp="1591033620341">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.center/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591033620341" />
+    <state width="1237" height="325" key="GridCell.Tab.1.left" timestamp="1591033620341">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.left/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591033620332" />
+    <state width="1237" height="325" key="GridCell.Tab.1.right" timestamp="1591033620341">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591033620341" />
+    <state x="141" y="136" key="SettingsEditor" timestamp="1591034247919">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="136" key="SettingsEditor/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1591034247919" />
     <state x="449" y="405" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590492359935">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -176,7 +296,9 @@
     <state x="483" y="264" key="refactoring.ChangeSignatureDialog/0.0.1280.984/-1366.0.1366.728@0.0.1280.984" timestamp="1590663718106" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_training$Lesson_6__1_.coverage" NAME="Lesson 6 (1) Coverage Results" MODIFIED="1590762733042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python_training$test_add_group.coverage" NAME="test_add_group Coverage Results" MODIFIED="1590660359390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_training$TestLogin.coverage" NAME="TestLogin Coverage Results" MODIFIED="1590667738703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_training$Lesson_6.coverage" NAME="Lesson 6 Coverage Results" MODIFIED="1591033631026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_training$TestLogin.coverage" NAME="TestLogin Coverage Results" MODIFIED="1591079660710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
