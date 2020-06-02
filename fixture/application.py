@@ -1,4 +1,5 @@
 from selenium import webdriver
+from fixture.session import SessionHelper
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import NoAlertPresentException
 _author_ = 'Iryna'
@@ -9,19 +10,9 @@ class Application:
         self.driver = webdriver.Firefox()
         self.driver.implicitly_wait(30)
         self.base_url = "https://www.google.com/"
+        self.session = SessionHelper(self)
         self.verificationErrors = []
         self.accept_next_alert = True
-
-    def login(self, username='admin', password='secret'):
-        driver = self.driver
-        driver.get("http://localhost/addressbook/group.php")
-        driver.find_element_by_name("user").click()
-        driver.find_element_by_name("user").clear()
-        driver.find_element_by_name("user").send_keys(username)
-        driver.find_element_by_name("pass").click()
-        driver.find_element_by_name("pass").clear()
-        driver.find_element_by_name("pass").send_keys(password)
-        driver.find_element_by_xpath(u"//input[@value='Увійти']").click()
 
     def create_group(self, group):
         driver = self.driver
@@ -41,10 +32,6 @@ class Application:
         # submit group creation
         driver.find_element_by_name("submit").click()
         driver.find_element_by_link_text("group page").click()
-
-    def logout(self):
-        driver = self.driver
-        driver.find_element_by_link_text(u"Вийти").click()
 
     def destroy(self):
         self.driver.quit()
